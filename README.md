@@ -23,7 +23,7 @@ RAFAEL ROCO, JOAQUIN LEANDRO
 ## Descrição:
 Consumo de API para web access da aplicação que faz o gerenciamento de agendamento de sessões de auxílio psicológico e que permite as seguintes operações:
 
-
+- Login de profissional :star2:
 - Criação de profissional/paciente e sessão com psicologo/a ➕
 - Consulta de sessões agedadas de hoje e mês,cancelamentos (mês), pacientes cadastrados, total de sessões em dupla, individual e grupo. 🔍
 - Remoção das sessões ➖
@@ -32,7 +32,8 @@ Consumo de API para web access da aplicação que faz o gerenciamento de agendam
 - Atualização de sessão 💳
 - Listagem de todas as sessões  🏃
 
-
+### Backlog:
+O nosso projeto foi desenvolvido através de uma construção coletiva utilizando a metodologia ágil SCRUM, onde foi definido todo o escopo no backlog, mapeando todas as atividades necesárias para a conclusão da nossa aplicação. Segue abaixo um exemplo da nossa primeira história desenvolvida: 
 
 
 ## Agradecimentos: 
