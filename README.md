@@ -2,7 +2,7 @@
 
 ​
 
-Esse projeto é o desafio final de programação do bootcamp da Wipro ministrado pelos professores
+Esse projeto é o desafio final de programação do bootcamp da Wipro ministrado pelos professor
 
  <a href="https://www.linkedin.com"> Robert Alexandre de Oliveira Santos </a> da Gama Academy.
 
