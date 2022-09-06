@@ -32,6 +32,9 @@ Consumo de API para web access da aplicação que faz o gerenciamento de agendam
 - Atualização de sessão 💳
 - Listagem de todas as sessões  🏃
 
+
+## Gerência do projeto:
+
 ### Backlog:
 O nosso projeto foi desenvolvido através de uma construção coletiva utilizando a metodologia ágil SCRUM, onde foi definido todo o escopo no backlog, mapeando todas as atividades necesárias para a conclusão da nossa aplicação. Segue abaixo um exemplo da nossa primeira história desenvolvida: 
 
